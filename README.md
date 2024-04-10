@@ -1,2 +1,2 @@
 # Upload-demo
-Shiny app for uploading and displaying multiple CSV files
+Shiny app that shows how to upload multiple CSV files and display the result
